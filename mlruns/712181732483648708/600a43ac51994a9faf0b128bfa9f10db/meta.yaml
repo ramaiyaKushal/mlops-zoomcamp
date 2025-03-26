@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/712181732483648708/600a43ac51994a9faf0b128bfa9f10db/artifacts
+end_time: 1742968114251
+entry_point_name: ''
+experiment_id: '712181732483648708'
+lifecycle_stage: active
+run_id: 600a43ac51994a9faf0b128bfa9f10db
+run_name: merciful-yak-18
+run_uuid: 600a43ac51994a9faf0b128bfa9f10db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742967974698
+status: 4
+tags: []
+user_id: kushalramaiya
