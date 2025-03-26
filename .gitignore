@@ -172,4 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-02-experiment-tracking/mlruns/*
+*/mlruns/*
