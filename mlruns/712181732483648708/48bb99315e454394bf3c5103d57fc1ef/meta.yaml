@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/712181732483648708/48bb99315e454394bf3c5103d57fc1ef/artifacts
+end_time: 1742968990557
+entry_point_name: ''
+experiment_id: '712181732483648708'
+lifecycle_stage: active
+run_id: 48bb99315e454394bf3c5103d57fc1ef
+run_name: aged-bird-422
+run_uuid: 48bb99315e454394bf3c5103d57fc1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742968845021
+status: 3
+tags: []
+user_id: codespace
