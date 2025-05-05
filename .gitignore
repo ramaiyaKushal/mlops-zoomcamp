@@ -173,3 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 mlruns
+.DS_Store
+random.txt
